@@ -1,0 +1,8 @@
+#include<stdio.h>
+#include<conic.h>
+
+void main(void)
+{
+    printf("my field my class by osama);
+    getch();
+}
